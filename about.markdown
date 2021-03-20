@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey whoever is reading this! My name is Sidharth Baveja. 
+Hey whoever is reading this! My name is Sidharth Baveja.
 I am currently a 4th year Electrical Engineering student at the University of Waterloo.
 My interests include all things tech, crypto, investing, personal finance, and self development.
 
