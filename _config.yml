@@ -21,16 +21,20 @@
 title: Sidharth Baveja
 email: sidharthbav@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey Everyone, This is my personal site where I write whatever is on my mind.
+  4th Year Electrical Engineering student at the University of Waterloo.
+  I'm intrested in Electric and Autonomous Vehicles, AI, Investing, Bitcoin, and Personal Development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sidbav
 github_username:  sidbav
+instagram_username: sidbav
+linkedin_username: sidharth-baveja
 
 # Build settings
 theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.

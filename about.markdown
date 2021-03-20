@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey whoever is reading this! My name is Sidharth Baveja. 
+I am currently a 4th year Electrical Engineering student at the University of Waterloo.
+My interests include all things tech, crypto, investing, personal finance, and self development.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In my free time you will probably find me taking a look at [BlockFi](https://blockfi.com/?ref=552bdfc5), reading a book, or watching some Youtube videos.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am currently looking for Fall 2021 (Sept - Dec 2021) internship opportunities so feel free to reach out to me if you got something in mind.
 
-
-[jekyll-organization]: https://github.com/jekyll
