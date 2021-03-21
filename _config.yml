@@ -31,7 +31,7 @@ instagram_username: sidbav
 linkedin_username: sidharth-baveja
 
 # Build settings
-theme: jekyll-theme-clean-blog
+remote-theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
   - jekyll-paginate
