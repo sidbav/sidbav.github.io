@@ -18,8 +18,7 @@ Secondly, during the first few months of lockdown I felt like I was using my pho
 
 Finally, I just think it is really cool to have some place on the internet that I can call mine, where I am free to post about whatever I want.
 
-So I decided to start setting up this website. So I started to research some free themes on Github, and found this one called [Clean Blog Jekyll
-](https://startbootstrap.com/theme/clean-blog-jekyll). I think this theme looks great, and it is super easy to create new posts.
+So I decided to start setting up this website. So I started to research some free themes on Github, and found this one called [Clean Blog Jekyll](https://startbootstrap.com/theme/clean-blog-jekyll). I think this theme looks great, and it is super easy to create new posts.
 
 Well, so here is my blog. I am planning to posting a blog somewhat regularly on topics on technology, finance, and investing.
 

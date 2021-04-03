@@ -17,9 +17,9 @@ The Bitcoin Blockchain can currently handle about 7 transactions per second, whe
 
 # The Problem
 Well, so there are two problems here: 
-  1) Bitcoin is unable to handle a large number of transactions.
-  2) Transactions are not instant.
-  3) Every transaction must be stored onto the blockchain transaction -> have to pay fees for each transaction.
+1. Bitcoin is unable to handle a large number of transactions.
+2. Transactions are not instant.
+3. Every transaction must be stored onto the blockchain transaction -> have to pay fees for each transaction.
 
 # The Solution
 This is where The Lightning Network, also known as the second layer of Bitcoin, comes in. The community behind the Lightning Network believes that small, everyday transactions do not have to be stored on the Bitcoin blockchain. It is easier to explain how the Lightning Network works by providing an example.
@@ -30,7 +30,7 @@ So, what the Lightning Network proposes to do is to setup a Payment Channel betw
 
 To do this, both yourself, and the coffee shop will deposit bitcoin into a multigeniture wallet. You can think of multisignature wallet as a vault which to store the bitcoin and needs multiple keys in order to open. In this case, you need both your and the coffee shop’s private key to unlock (We will come back to this concept in a second) the vault.
 
-Assume you deposit 0.05 bitcoin, and the coffee shop deposits 0.01 bitcoin; the “vault” now contains 0.06 bitcoin. These transactions of sending your bitcoin to the wallet occur on the blockchain. The Lightning Network will keep track that how much bitcoin each party owns. So now when you buy a coffee for 0.005 bitcoin, you can subtract 0.005 bitcoin from your balance (0.05 - 0.005 = 0.495 BTC) and add 0.005 bitcoin the coffee shop’s balance (0.01 + 0.005 = 0.015 BTC). Both you are the coffee shop verify that this transaction is correct, by signing the transaction with your private keys. You and the coffee shop can have thousands of transactions on the payment channel, and they can be verified almost instantly.
+Assume you deposit 0.05 bitcoin, and the coffee shop deposits 0.01 bitcoin; the “vault” now contains 0.06 bitcoin. These transactions of sending your bitcoin to the wallet occur on the blockchain. The Lightning Network will keep track that how much bitcoin each party owns. So now when you buy a coffee for 0.005 bitcoin, you can subtract 0.005 bitcoin from your balance (0.05 - 0.005 = 0.45 BTC) and add 0.005 bitcoin the coffee shop’s balance (0.01 + 0.005 = 0.015 BTC). Both you are the coffee shop verify that this transaction is correct, by signing the transaction with your private keys. You and the coffee shop can have thousands of transactions on the payment channel, and they can be verified almost instantly.
 
 Okay, now that’s great, but what do you do when you want your bitcoin back? Both you and the coffee shop can close the payment channel by broadcasting your final balance sheet to the bitcoin network. Keep in mind here, BOTH parties must agree to close the payment channel, to unlock the “vault”. If the bitcoin network verifies your both of your balance sheets, the vault will be unlocked, and each party will receive their respective bitcoin balances.
 
