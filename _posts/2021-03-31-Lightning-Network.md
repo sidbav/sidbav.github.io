@@ -16,7 +16,7 @@ In order to understand what the Lightning Network does, you need to understand w
 The Bitcoin Blockchain can currently handle about 7 transactions per second, whereas if you look at Visa or MasterCard, they handle about 4000 transactions per second. Comparing Visa and Bitcoin, we can see that Bitcoin is unable to handle a large number of transactions. Additionally, each bitcoin transaction must be sent to the blockchain in order to be verified. It does not matter if you are sending $1 or $1 million dollars, your bitcoin transaction fee will remain the same. New Blocks are added to the Bitcoin Blockchain every ten minutes as well.
 
 # The Problem
-Well, so there are two problems here: 
+Well, so there are three problems: 
 1. Bitcoin is unable to handle a large number of transactions.
 2. Transactions are not instant.
 3. Every transaction must be stored onto the blockchain transaction -> have to pay fees for each transaction.
