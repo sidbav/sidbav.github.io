@@ -6,6 +6,8 @@ date: 2021-04-02
 background: '/img/posts/bitcoin-lightning.jpg'
 ---
 
+Update (April 10): If you want to learn more about the Lightning Network, you can refer to this [guide](https://docs.lightning.engineering/conceptual-overview/overview-overview). This goes into a lot of detail, you will be able to learn a lot from it!
+
 Okay, so it have been a couple days since I wrote my first [post](https://sidbav.github.io/2021/03/31/Lightning-Network.html) about the Bitcoin Lightning Network. Go check it out if you have not read that post.
 
 The morning after I wrote that post I realized that I barely scratched the surface of the second Layer of Bitcoin. I thought it was pretty cool that you are able to setup a payment channel between two parties, but I did not even consider the Network part of the Lightning Network.
