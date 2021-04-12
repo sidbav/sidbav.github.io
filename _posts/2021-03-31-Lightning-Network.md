@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is The Lightning Network?"
+title: "Part 1: What is The Lightning Network?"
 subtitle: "The Second Layer of Bitcoin"
 date: 2021-03-31
 background: '/img/posts/bitcoin-lightning.jpg'
