@@ -3,7 +3,7 @@ layout: post
 title: "Part 2: What is The Lightning Network?"
 subtitle: "A followup to my previous post"
 date: 2021-04-02
-background: '/img/posts/bitcoin-lightning.jpg'
+modified_date: 2021-04-10
 ---
 
 Update (April 10): If you want to learn more about the Lightning Network, you can refer to this [guide](https://docs.lightning.engineering/conceptual-overview/overview-overview). This goes into a lot of detail, you will be able to learn a lot from it!

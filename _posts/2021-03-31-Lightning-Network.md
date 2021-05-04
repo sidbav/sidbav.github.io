@@ -10,18 +10,18 @@ Recently, I have been hearing a lot about the Lightning Layer of Bitcoin.
 
 I do not really know much about it, other than it should make transactions quicker and cheaper (I’m not even sure if that is correct), So I am writing this article/blog post explaining what the Lightning Network is.
 
-# The Basics
+### The Basics
 In order to understand what the Lightning Network does, you need to understand what Bitcoin is, and the basics of how it works. If you do not know much about Bitcoin, I suggest that you take you read this article to learn about Bitcoin.
 
 The Bitcoin Blockchain can currently handle about 7 transactions per second, whereas if you look at Visa or MasterCard, they handle about 4000 transactions per second. Comparing Visa and Bitcoin, we can see that Bitcoin is unable to handle a large number of transactions. Additionally, each bitcoin transaction must be sent to the blockchain in order to be verified. It does not matter if you are sending $1 or $1 million dollars, your bitcoin transaction fee will remain the same. New Blocks are added to the Bitcoin Blockchain every ten minutes as well.
 
-# The Problem
+### The Problem
 Well, so there are three problems: 
 1. Bitcoin is unable to handle a large number of transactions.
 2. Transactions are not instant.
 3. Every transaction must be stored onto the blockchain transaction -> have to pay fees for each transaction.
 
-# The Solution
+### The Solution
 This is where The Lightning Network, also known as the second layer of Bitcoin, comes in. The community behind the Lightning Network believes that small, everyday transactions do not have to be stored on the Bitcoin blockchain. It is easier to explain how the Lightning Network works by providing an example.
 
 Imagine that on your way to school or work (before COVID), that you go to your local coffee shop and buy a coffee and a bagel every day. If you were to pay in bitcoin, you would likely end up spending more money on the transaction fee then your coffee and donuts, and it quite slow to verify your transaction.
