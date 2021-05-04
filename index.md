@@ -7,3 +7,9 @@
 #
 layout: home
 ---
+
+Welcome to my website! I created this site to write about topics that interest me, whether that be crypto, AI, Electric/Autonomous vehicles, or anything else.
+
+I am currently looking for a Fall 2021 (September to December 2021) internship, so if you have something in mind, feel free to send me an email at [sidharthbav@gmail.com](mailto:sidharthbav@gmail.com).
+
+----
