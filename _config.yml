@@ -2,10 +2,13 @@ title: Sidharth Baveja
 author:
   name: Sidharth Baveja
   email: sidharthbav@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  Senior Electrical Engineering student at the University of Waterloo. I'm intrested
-  in Cryptocurrencies, Electric and Automous Vehicles, AI, Investing and Personal Development.
-show_excerpts: true # set to true to show excerpts on the homepage
+footer_description: > # this means to ignore newlines until "show_excerpts:"
+  Senior Electrical Engineering student at the University of Waterloo. I'm interested
+  in Cryptocurrencies, Electric and Autonmous Vehicles, AI, Investing and Personal Development.
+
+#description: > # this means to ignore newlines until "show_excerpts:"
+  #Student, Crypto, AI, & Personal Development.
+show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -62,5 +65,3 @@ gems:
 
 paginate: 10
 paginate_path: posts/page:num/
-
-
