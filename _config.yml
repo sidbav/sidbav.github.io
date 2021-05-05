@@ -65,3 +65,4 @@ gems:
 
 paginate: 10
 paginate_path: posts/page:num/
+google_analytics: G-EQZRSLN033
