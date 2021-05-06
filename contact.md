@@ -2,4 +2,4 @@
 layout: page
 title: Contact
 ---
-Don't hesitate to email me [sidharthbav@gmail.com](mailto:sidharthbav@gmail.com) or DM on [Twitter](https://twitter.com/sidbav).
+To get in touch send me an email at *sidharthbav [at] gmail [dot] com*.
