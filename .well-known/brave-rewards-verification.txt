@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sidharthbaveja.com
+Token: 97ab6732c082eb39e1ce1000a027f307449bef88ea824aeaddc016668bac83c0
