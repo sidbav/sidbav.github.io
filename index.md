@@ -10,6 +10,8 @@ layout: home
 
 Welcome to my website! I created this site to write about topics that interest me, whether that be crypto, AI, Electric/Autonomous vehicles, or anything else.
 
-I am currently looking for Summer 2023 Software Engineering Internships. If you have something in mind, feel free to send me an email at *sidharthbav [at] gmail [dot] com*.
+I am currently looking for Summer 2023 Software Engineering Internships, check out my [**resume**]({{ site.url }}/assets/09-06-2022_Sidharth_Baveja_Resume.pdf){:target="_blank"}, last updated **September 6th, 2022**.
+
+If you think I would be a good fit on your team, or you just want to reach out to say Hi, feel free to send me an email at *sidharthbav [at] gmail [dot] com*.
 
 ----
