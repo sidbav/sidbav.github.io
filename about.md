@@ -6,8 +6,6 @@ permalink: /about/
 
 Hi! My name is Sidharth Baveja.
 
-I am a 4th year Electrical Engineering student at the University of Waterloo.
+I am Master of Computer Science Student at Texas A&M.
 
-My interests include Electric and Autonomous Vehicles, AI, Cryptocurrencies, Investing, Personal Development and The Creator Economy.
-
-I am currently looking for 2022 New Grad Opportunities so feel free to email me at *sidharthbav [at] gmail [dot] com* if you have something in mind.
+I am currently looking for 2024 New Grad Opportunities so feel free to email me at *sidharthbav [at] gmail [dot] com* if you have something in mind.
