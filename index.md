@@ -12,7 +12,7 @@ Welcome to my website! I created this site to write about topics that interest m
 
 I recently created a blog called [Applying Machine Learning to CyberSecurity](https://ml-to-cs.sidharthbaveja.com/).
 
-I am currently looking for New Grad 2024 Roles, check out my [**resume**]({{ site.url }}/assets/Sidharth_Baveja_Resume.pdf){:target="_blank"}, last updated **September 6th, 2023**.
+I am currently looking for New Grad 2024 Roles, check out my [**resume**]({{ site.url }}/assets/Sidharth_Baveja_Resume.pdf){:target="_blank"}, last updated **September 10th, 2023**.
 
 If you think I would be a good fit on your team, or you just want to reach out to say Hi, feel free to send me an email at *sidharthbav [at] gmail [dot] com*.
 
